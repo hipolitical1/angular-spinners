@@ -1,4 +1,4 @@
-# angular-spinners
+# angular-spinners-with-nextdoor
 A library for easily managing loading spinners in complex Angular2+ applications.
 
 > ## NOTICE
